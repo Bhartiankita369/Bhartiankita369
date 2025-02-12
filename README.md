@@ -9,7 +9,7 @@
 - **Programming:**  SQL ,  Python (Basic)
 - **Data Visualization:**  Power BI, Excel  
 - **Databases:** MySQL, PostgreSQL  
-- **Other Tools:** Git, Jupyter Notebook, Google Sheets
+- **Other Tools:** Google Sheets
   
  ## 📂 Featured Projects  
 🔹 **[Ecommerce sales dashboard](https://github.com/Bhartiankita369/Ecommerce_sales_dashboard)** - Built an interactive Power BI dashboard to analyze sales trends and revenue performance.  
