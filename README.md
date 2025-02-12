@@ -17,3 +17,9 @@
 🔹 **[Spotify Dashboard User Music Analysis](https://github.com/Bhartiankita369/Spotify-Dashboard-User-Music-Analysis)** - Used Python and Pandas to explore pricing trends across different locations.  
 
 
+
+
+## 🌎 Let's Connect!  
+📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/ankita-bharti-03148026b)**  
+  
+
