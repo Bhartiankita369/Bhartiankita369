@@ -6,7 +6,7 @@
 📌 Check out my latest projects below!  
 
 ## 🚀 Skills  
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
+- **Programming:**  SQL ,  Python (Basic)
 - **Data Visualization:**  Power BI, Excel  
 - **Databases:** MySQL, PostgreSQL  
 - **Other Tools:** Git, Jupyter Notebook, Google Sheets
