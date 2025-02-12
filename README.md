@@ -1,5 +1,16 @@
 ## Hi there 👋
+# Hi, I'm Ankita! 👋  
+### Aspiring Data Analyst | SQL | Python | Power BI | Excel  
 
+🔍 Passionate about uncovering insights from data to drive business decisions.  
+📊 Exploring projects in business intelligence, data visualization, and predictive analytics.  
+📌 Check out my latest projects below!  
+
+## 🚀 Skills  
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
+- **Data Visualization:**  Power BI, Excel  
+- **Databases:** MySQL, PostgreSQL  
+- **Other Tools:** Git, Jupyter Notebook, Google Sheets 
 <!--
 **Bhartiankita369/Bhartiankita369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
