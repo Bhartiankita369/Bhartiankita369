@@ -13,8 +13,8 @@
   
  ## 📂 Featured Projects  
 🔹 **[Ecommerce sales dashboard](https://github.com/Bhartiankita369/Ecommerce_sales_dashboard)** - Built an interactive Power BI dashboard to analyze sales trends and revenue performance.  
-🔹 **[HR Analytics Dashboard Attrition Analysis](https://github.com/Bhartiankita369/HR-ANALYTICS-DASHBOARD--ATTRITION-ANALYSIS)** - Applied SQL queries to segment customers based on purchasing behavior.  
-🔹 **[Spotify Dashboard User Music Analysis](https://github.com/Bhartiankita369/Spotify-Dashboard-User-Music-Analysis)** - Used Python and Pandas to explore pricing trends across different locations.  
+🔹 **[HR Analytics Dashboard Attrition Analysis](https://github.com/Bhartiankita369/HR-ANALYTICS-DASHBOARD--ATTRITION-ANALYSIS)** - Using Excel and Power bi dashboard to analyse employee attrition within a company.  
+🔹 **[Spotify Dashboard User Music Analysis](https://github.com/Bhartiankita369/Spotify-Dashboard-User-Music-Analysis)** - Built an interactive Power BI dashboard to analyse Spotify user music data, 
 
 
 
