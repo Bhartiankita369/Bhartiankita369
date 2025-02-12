@@ -16,4 +16,4 @@
 🔹 **[HR ANALYTICS DASHBOARD ATTRITION ANALYSIS](https://github.com/Bhartiankita369/HR-ANALYTICS-DASHBOARD--ATTRITION-ANALYSIS)** - Applied SQL queries to segment customers based on purchasing behavior.  
 🔹 **[Spotify Dashboard User Music Analysis](https://github.com/Bhartiankita369/Spotify-Dashboard-User-Music-Analysis)** - Used Python and Pandas to explore pricing trends across different locations.  
 
--->
+
