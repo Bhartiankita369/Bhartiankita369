@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Ankita! 👋  
 ### Aspiring Data Analyst | SQL | Python | Power BI | Excel  
 
