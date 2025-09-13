@@ -14,7 +14,9 @@
  ## 📂 Featured Projects  
 🔹 **[HR Analytics Dashboard Attrition Analysis](https://github.com/Bhartiankita369/HR-ANALYTICS-DASHBOARD--ATTRITION-ANALYSIS)** - Using Excel and Power bi dashboard to analyse employee attrition within a company.  
 🔹 **[Spotify Dashboard User Music Analysis](https://github.com/Bhartiankita369/Spotify-Dashboard-User-Music-Analysis)** - Built an interactive Power BI dashboard to analyse Spotify user music data
+
 🔹 **[Ecommerce sales analysis](https://github.com/Bhartiankita369/E_commerce_sales_analysis)** -Analysed sales data using SQL and Power Query
+
 🔹 **[Netflix titles](https://github.com/Bhartiankita369/Netflix_dataset_analysis)** -Analysed netflix titles with the help of SQl and Power Query.
 
 
